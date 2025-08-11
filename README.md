@@ -1,8 +1,14 @@
 # 👨🏻‍💻 Hatus Batista
 
-**`FullStack Dev junior`**
+**`Fullstack Developer | JavaScript, TypeScript, React, CSS3, PHP, CMS, C/C++ | Nest.js, MySQL | Git, GitHub, CI/CD, Figma | Agile`**
 
-My name is Hatus Batista, I´m currently 28 years old, born in Brazil, grew up in the UK and currently living with my family in South Germany. My first xp with the tech world was in 2014 on my first Btech in Computers Network, where I course for 2 years and working full time as a trainee FullStack Dev, eventually I left the tech industry and for almost 8 years I was a chef de cuisine all over the world (literally). Currently I´m back to the tech field and now enrolled on Bacharel of Software Engeneering at Infnet. I´m passionate about technology, expecially QA testing at the moment, which is a parallel course I´m now focused. Please, feel free to see my personal/professional development on my repositories, where I´m currently put in practice some Js exercises and QA training.
+Let´s cook.
+
+Currently pursuing my Bachelor degree in Software Engineering, now also assuming a the leadership and fullstack role of a new SaaS which has the ability to repurpose videos format through AI.
+We're a small team of 8 amazing people. From the DevOps to the marketing team, we're delivering our best.
+
+Willing to always help not only businesses, but also people and true causes, not just another overpriced application for making simple tasks.
+Let's be productive, let us cook 😉
 
 <p 
         <a href="https://github.com/hatus819?tab=followers">
@@ -13,6 +19,7 @@ My name is Hatus Batista, I´m currently 28 years old, born in Brazil, grew up i
         />
     </a>
 </p>
+
 
 ---
 
