@@ -1,114 +1,94 @@
-# 👨🏻‍💻 Hatus Batista
+<div align="center">
 
-**`Fullstack Developer | JavaScript, TypeScript, React, CSS3, PHP, CMS, C/C++ | Nest.js, MySQL | Git, GitHub, CI/CD, Figma | Agile`**
+Hatus Batista 👨🏻‍💻
+Fullstack Developer | JavaScript | TypeScript | Java | Nest.js | React | Cloud
+</div>
 
-Let´s cook.
-
-Currently pursuing my Bachelor degree in Software Engineering, now also assuming a the leadership and fullstack role of a new SaaS which has the ability to repurpose videos format through AI.
-We're a small team of 8 amazing people. From the DevOps to the marketing team, we're delivering our best.
-
-Willing to always help not only businesses, but also people and true causes, not just another overpriced application for making simple tasks.
-Let's be productive, let us cook 😉
-
-<p 
-        <a href="https://github.com/hatus819?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me" 
-            src="https://custom-icon-badges.demolab.com/github/followers/hatus819?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
+<p align="center">
+<a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME">
+<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/YOUR_USERNAME%3Flabel%3DFollowers%26style%3Dsocial" alt="GitHub Followers">
+</a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dsocial%26logo%3Dlinkedin" alt="LinkedIn Connections">
+</a>
 </p>
 
+About Me
+I'm a Fullstack Developer passionate about building robust and scalable solutions. With strong expertise in backend services, database integration, and deploying serverless cloud applications, I thrive in dynamic, Agile environments. I focus on writing clean, maintainable code, backed by automated unit and integration tests.
 
----
+☁️ Cloud Expertise: Experienced with AWS (EC2, S3, IAM), Azure (Functions, DevOps), and Google Cloud.
 
-### 🤖 Programming languages and Technologies
+💳 Integrations: Proficient in implementing solutions like Stripe for payment processing.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+🔧 DevOps & SCM: Skilled in Git, GitHub services, and implementing CI/CD pipelines.
 
-<br/>
-<br/>
+Agile methodologies and sprint-based development are my second nature.
 
-### 📊 Statistics
+🌎 Multilingual: Fluent in Portuguese, English, Italian, and Spanish, with professional-level German (B1+).
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=hatus819&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
+My Tech Stack
+Here are some of the technologies I work with:
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatus819&theme=tokyonight&layout=compact&custom_title=Tecnologies&langs_count=9" 
-  />
+Frontend
 
+Backend
+
+Databases
+
+DevOps & Tools
+
+JavaScript (ES6+)
+
+Node.js
+
+MySQL
+
+Git & GitHub
+
+TypeScript
+
+Nest.js
+
+PostgreSQL
+
+CI/CD
+
+React & React Query
+
+Java
+
+
+
+Agile Methodologies
+
+CSS3
+
+PHP
+
+
+
+C/C++
+
+CMS
+
+
+
+
+
+
+
+GitHub Statistics
+Here are some of my key stats on GitHub. I'm always pushing new code and contributing to the community!
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Hatus Batista's GitHub Stats" />
 </p>
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula" alt="Top Languages" />
+</p>
+
+<div align="center">
+
+Feel free to connect with me on LinkedIn or check out my repositories!
+
+</div>
