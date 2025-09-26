@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hatus</h1>
-<h3 align="center">Fullstack Developer with strong expertise in building scalable backend services, integrating databases, and deploying serverless cloud solutions. Experienced with AWS (EC2, S3, IAM), Azure and Google Cloud, Functions, Azure DevOps, Stripe Integrations, Git | GitHub services and functions, also PostgreSQL in Agile, sprint-based environments. Adept at writing clean, maintainable code with automated unit and integration tests. Multilingual in Portuguese, English, Italian, and Spanish, with professional-level German (B1+)</h3>
+<h3 align="center">Trust me, your QA will not enjoy it (they won’t have any tasks haha) 
+
+Currently leading the full-stack development of an AI-powered SaaS platform, utilizing expertise in product development and backend architecture. Engineered a scalable Node.js backend, designed RESTful API endpoints, and integrated OpenAI and Gemini APIs to enhance user engagement and task efficiency. Collaborated with a team of developers to successfully launch the MVP in three months, achieving significant user adoption milestones. 
+
+Pursuing a Bachelor of Technology (BTech) in Computer Software Engineering at Instituto Infnet while leveraging advanced cloud and AI skills in professional roles. With a strong foundation in Azure, containerization, and artificial intelligence, consistently contributing to building innovative, scalable digital solutions that address complex challenges in the SaaS domain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hatus819&label=Profile%20views&color=0e75b6&style=flat" alt="hatus819" /> </p>
 
