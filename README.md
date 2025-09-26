@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hatus819&label=Profile%20views&color=0e75b6&style=flat" alt="hatus819" /> </p>
 
-- 🔭 I’m currently working on [RepurposeAI](https://github.com/Synergy-Forge/Repurpose-AI-README)
+- 🔭 I’m currently working on [RepurposeAI](https://github.com/Synergy-Forge/Repurpose-AI-README) @ [Bossa Byte](https://www.linkedin.com/company/bossa-byte/)
+- 🔭 I’m currently working on project LLM trainer @ [Turing]((https://www.linkedin.com/company/turingcom/))
 
 - 👨‍💻 All of my projects are available at [https://github.com/hatus819](https://github.com/hatus819)
 
-- 💬 Ask me about **TypeScript, Azure, Vercel, CI/CD**
+- 💬 Ask me about **TypeScript,Next.js,Node.js,Azure, Vercel, CI/CD**
 
 - 📫 How to reach me **hatus819@gmail.com**
 
